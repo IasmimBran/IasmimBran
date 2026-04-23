@@ -9,13 +9,7 @@
 - 💡 Interesse em desenvolvimento web, sistemas e soluções eficientes
 - 📍 Cuiabá - MT, Brasil
 
-   </td>
-   <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/IasmimBran/Iasmim_Oliveirak/main/avatar.png" width="220" alt="Avatar da Iasmim" /><br><br>
-   </td>
-  </tr>
-</table>
-
+  
 ---
 
 ## 🛠️ Tecnologias
