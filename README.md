@@ -1,11 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou a Iasmim Oliveira</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=DA70D6&center=true&vCenter=true&width=900&lines=Estudante+de+ADS;Suporte+T%C3%A9cnico+no+IFMT;Estudando+Node.js;Desenvolvendo+projetos+com+React+e+Firebase" alt="Typing SVG" />
-</p>
-
-
-
 ## 🌙 Sobre mim
 
 - 💼 Atualmente trabalho como **Suporte Técnico no IFMT**
