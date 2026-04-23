@@ -75,15 +75,8 @@ Sistema web para locadora de motos com foco em organização, controle e eficiê
 
 ---
 
-## 🐍 Anaconda rodando
+## 🐍 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IasmimBran/IasmimBran/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> Para essa cobrinha funcionar, você precisa configurar o GitHub Actions.
-
----
 
 ## 🌐 Contato
 
