@@ -4,17 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=DA70D6&center=true&vCenter=true&width=900&lines=Estudante+de+ADS;Suporte+T%C3%A9cnico+no+IFMT;Estudando+Node.js;Desenvolvendo+projetos+com+React+e+Firebase" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCO-ESTUDOS-ff69b4?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ANACONDA_MODE-ON-32CD32?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
 
----
-
-<table>
-  <tr>
-    <td width="60%">
 
 ## 🌙 Sobre mim
 
@@ -75,11 +65,6 @@ Sistema web para locadora de motos com foco em organização, controle e eficiê
 
 ---
 
-## 🐍 Anaconda
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IasmimBran/IasmimBran/output/github-contribution-grid-snake.svg">
-</p>
 
 
 ## 🌐 Contato
