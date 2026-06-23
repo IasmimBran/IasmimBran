@@ -36,14 +36,6 @@ Sistema web para locadora de motos com foco em organização, controle e eficiê
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IasmimBran&show_icons=true&theme=tokyonight&hide_border=true&title_color=DA70D6&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasmimBran&layout=compact&theme=tokyonight&hide_border=true&title_color=DA70D6&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
 
 ## 🔥 Sequência de contribuições
 
