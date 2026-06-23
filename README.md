@@ -18,21 +18,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,nodejs,python,git,github,vscode,figma,mysql" />
 </p>
 
----
-
-## 🚀 Projeto em destaque
-
-### 🏍️ Sistema de Gestão de Frotas
-Sistema web para locadora de motos com foco em organização, controle e eficiência.
-
-- ✅ Cadastro de motos  
-- ✅ Gestão de motoristas  
-- ✅ Controle de locações  
-- ✅ Registro de manutenção  
-- ✅ Controle financeiro  
-- ✅ Dashboard com indicadores  
-
-**Tecnologias:** `React` `Firebase` `JavaScript` `PWA`
 
 ---
 
@@ -62,11 +47,3 @@ Sistema web para locadora de motos com foco em organização, controle e eficiê
 </p>
 
 ---
-
-<p align="center">
-  ✨ <i>Sempre em busca de aprendizado, evolução profissional e novos desafios na área de tecnologia.</i> ✨
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:8a2be2,100:00bfff&height=120&section=footer"/>
-</p>
