@@ -2,7 +2,6 @@
 
 ## 🌙 Sobre mim
 
-- 💼 Atualmente trabalho como **Suporte Técnico no IFMT**
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNIVAG)**
 - 📚 Atualmente estudando **Node.js**
 - 🚀 Desenvolvendo projetos com **React, Firebase e JavaScript**
