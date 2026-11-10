@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou a Iasmim Oliveira</h1>
+<h1 align="center">Iasmim Oliveira</h1>
 
 ## 🌙 Sobre mim
 
